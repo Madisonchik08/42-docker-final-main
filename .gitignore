@@ -1,0 +1,26 @@
+# Database files / Файлы базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Binaries / Бинарные файлы
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE files / Файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files / Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Build artifacts / Артефакты сборки
+my_app
+/app
+
